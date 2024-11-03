@@ -4,4 +4,4 @@ Nama: Dustin Pratama; NIM: 220010157; Kelas: CA221
 
 Tampilan Aplikasi
 
-![](Screenshot_1730618330)
+![](Screenshot_1730618330.png)

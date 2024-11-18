@@ -1,16 +1,22 @@
 # tugaspertemuan03
 
-A new Flutter project.
+UTS Mobile Programming; Nama: Dustin Pratama; NIM: 220010157; Kelas: CA221
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Topik: Data Hewan
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Tampilan Aplikasi
+![](Screenshot_1731936873.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+contoh gambar url hewan:
+https://cdn.pixabay.com/photo/2022/10/29/19/21/golden-eagle-7555959_1280.jpg
+
+https://cdn.pixabay.com/photo/2014/05/11/13/39/bird-341898_1280.jpg
+
+https://cdn.pixabay.com/photo/2012/11/28/13/53/osprey-67786_960_720.jpg
+
+https://cdn.pixabay.com/photo/2022/09/03/18/48/stellers-sea-eagle-7430198_1280.jpg
+
+https://cdn.pixabay.com/photo/2022/01/03/23/06/peregrine-falcon-6913795_960_720.jpg

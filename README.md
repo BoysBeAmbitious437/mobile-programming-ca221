@@ -1,5 +1,10 @@
 # tugaspertemuan03
 
+
+Tugas Pertemuan 13
+Nama: Dustin Pratama; NIM: 220010157; Kelas: CA221
+
+
 A new Flutter project.
 
 ## Getting Started
